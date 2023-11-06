@@ -40,7 +40,7 @@ header {
 /* Step 5: Style the links so that they have the same color even after they have been visited. This is a “challenge” problem. You should not give or receive help when completing it.*/
 
 .nav_items a:visited {
-    color: blue;
+    color: #50C7C7;
 }
 
 /* Step 6: Identify the proper selector to style ONLY those header elements that are direct children of a card class.  The required styling is the following: 
