@@ -12,7 +12,7 @@
 }
 
 #logo {
-    animation: mymove 5s forwards;
+    animation: mymove 5s;
 }
 
 /* Step 2: Edit the body element to use the Poppins font (using Google fonts) with serif as a backup.  It should also use the image “concrete_seamless.png” as a background-image with a backup color of #f1f1f1.*/
